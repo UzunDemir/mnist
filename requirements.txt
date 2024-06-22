@@ -1,5 +1,9 @@
-numpy==1.26.3
-streamlit==1.30.0
-tensorflow==2.15.0
+streamlit
+tensorflow
+matplotlib
+numpy
+pandas
 Pillow
-matplotlib==3.7.1
+urllib3
+keras
+scikit-learn
