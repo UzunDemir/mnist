@@ -1,6 +1,9 @@
 streamlit
-numpy
 tensorflow
-Pillow
 matplotlib
-opencv-python
+numpy
+pandas
+Pillow
+urllib3
+keras
+scikit-learn
